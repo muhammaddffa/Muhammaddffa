@@ -4,18 +4,18 @@
 
 ## 📊 My Github Statistics
 
-<a href="https://github.com/faisalalm01](https://github.com/muhammaddffa/Muhammaddffa">
+<a href="https://github.com/muhammaddffa/Muhammaddffa">
 <img alt="daffa" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalalm01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
-<a href="https://github.com/faisalalm01](https://github.com/muhammaddffa/Muhammaddffa">
+<a href="https://github.com/muhammaddffa/Muhammaddffa">
 <img alt="muhammaddffa Github Stats" src="https://github-readme-stats.vercel.app/api?username=faisalalm01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 ## 🚀 Languages and Tools:
 
 <a href="https://github.com/muhammaddffa/Muhammaddffa">
-<img alt="Muhammaddffa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalalm01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Muhammaddffa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddffa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 
