@@ -4,11 +4,11 @@
 
 ## 📊 My Github Statistics
 
-<a href="https://github.com/muhammaddffa/Muhammaddffa">
-<img alt="daffa" src="https://github-readme-streak-stats.herokuapp.com/?user=muhmammaddffa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/muhammaddffa">
+<img alt="daffa" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammaddffa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
-<a href="https://github.com/muhammaddffa/Muhammaddffa">
+<a href="https://github.com/muhammaddffa">
 <img alt="muhammaddffa Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhammaddffa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
