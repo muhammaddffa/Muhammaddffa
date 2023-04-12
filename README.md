@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/muhammaddffa">
-<img alt="muhammaddffa Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhammaddffa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="muhammaddffa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhammaddffa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 ## 🚀 Languages and Tools:
