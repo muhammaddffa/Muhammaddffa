@@ -1,69 +1,91 @@
-<!-- 💫 README by Muhammad Daffa -->
+<!-- ⚡️ Powerful GitHub Profile by Muhammad Daffa -->
 
-<h1 align="center">Hey there, I'm <a href="https://github.com/muhammaddffa">Muhammad Daffa</a> 👋</h1>
-<h3 align="center">🚀 Backend Developer | 🧠 API Enthusiast | ☕ Coffee + Code</h3>
+<h1 align="center">🚀 Muhammad Daffa — Backend Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=480&lines=Designing+Scalable+Backend+Systems...;Building+RESTful+and+AI-Powered+APIs...;Automating+Everything+That+Can+Be+Automated...;Turning+Logic+Into+Magic+⚡" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Reliable+Backends+⚙️;Designing+Scalable+APIs+🚀;Crafting+Logic+That+Empowers+Systems+💡;Turning+Ideas+Into+Automation+🤖" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🧩 About Me
+### 🧠 About Me
 
-- 🧑‍💻 Focused on **Backend Development & API Engineering**
-- ⚙️ Love working with **Node.js, TypeScript, Flask, and Databases**
-- 🌱 Currently learning more about **Cloud Deployment & System Design**
-- 🎯 Passionate about **building clean, reliable, and efficient systems**
-- ☕ Fun fact: *I debug better after the second cup of coffee.*
+> *“A good backend is invisible — but it makes everything possible.”*
 
----
+💡 I’m **Muhammad Daffa**, a **Backend Developer** who thrives on building APIs, handling data pipelines, and engineering systems that just *work*.  
+I’m passionate about designing clean architectures, scalable APIs, and maintainable codebases.  
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,python,flask,prisma,mysql,mongodb,postman,git,linux,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/API_Design-%23007ACC.svg?&style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Modeling-FF9900?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Performance%20Optimization-00C3FF?style=for-the-badge" />
-</p>
+- ⚙️ Expert in **Node.js, TypeScript, Express, Flask, and SQLAlchemy**  
+- 🧩 Experienced with **RESTful API Design**, **Authentication**, **Database Modeling**, and **Cloud Deployment**  
+- 🧠 Learning more about **AI-powered backend systems**  
+- 💬 I love discussing **system design, performance optimization, and code architecture**  
+- ☕ Fueled by caffeine, logic, and curiosity  
 
 ---
 
-### 📊 GitHub Statistics
+### ⚙️ Core Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,python,flask,prisma,mysql,mongodb,redis,linux,docker,postman,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-RESTful%20API%20Design-%23007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Clean%20Architecture-%2300C3FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-System%20Design-%2312100E?style=for-the-badge" />
+</p>
+
+---
+
+### 📊 GitHub Performance Dashboard
 
 <p align="center">
   <a href="https://github.com/muhammaddffa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammaddffa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/muhammaddffa">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammaddffa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammaddffa&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/muhammaddffa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddffa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammaddffa&theme=react&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/muhammaddffa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddffa&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF" alt="Top Languages" />
   </a>
 </p>
 
 ---
 
-### ⚡ Projects Highlight
+### 🧩 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/muhammaddffa/backend-auth-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddffa&repo=backend-auth-api&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/muhammaddffa/auth-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddffa&repo=auth-api&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF" />
   </a>
-  <a href="https://github.com/muhammaddffa/flask-ml-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddffa&repo=flask-ml-api&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/muhammaddffa/flask-ai-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddffa&repo=flask-ai-api&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/muhammaddffa/express-file-service">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddffa&repo=express-file-service&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF" />
+  </a>
+</p>
+
+---
+
+### 🧠 Contributions & Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammaddffa&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammaddffa&theme=onestar&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -78,16 +100,8 @@
 
 ---
 
-### 🧠 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammaddffa&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://komarev.com/ghpvc/?username=muhammaddffa&style=flat-square&color=00BFFF" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammaddffa&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
-
-<p align="center">💬 “Backend isn't visible, but it powers everything.” ⚙️</p>
+<h4 align="center">⚡ "Great backend = great experience. You just don’t see it, you feel it." ⚙️</h4>
