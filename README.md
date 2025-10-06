@@ -59,26 +59,6 @@ I’m passionate about designing clean architectures, scalable APIs, and maintai
 
 ---
 
-### 🧩 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/muhammaddffa/auth-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddffa&repo=auth-api&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF" />
-  </a>
-  <a href="https://github.com/muhammaddffa/flask-ai-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddffa&repo=flask-ai-api&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/muhammaddffa/express-file-service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddffa&repo=express-file-service&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF" />
-  </a>
-</p>
-
-
----
-
 ### 🧠 Contributions & Activity
 
 <p align="center">
@@ -100,9 +80,5 @@ I’m passionate about designing clean architectures, scalable APIs, and maintai
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammaddffa&style=flat-square&color=00BFFF" alt="Profile views" />
-</p>
 
 <h4 align="center">⚡ "Great backend = great experience. You just don’t see it, you feel it." ⚙️</h4>
