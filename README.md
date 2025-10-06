@@ -77,4 +77,4 @@ I’m passionate about designing clean architectures, scalable APIs, and maintai
 
 ---
 
-<h4 align="center">⚡ "Great backend = great experience. You just don’t see it, you feel it." ⚙️</h4>
+<h4 align="center">⚡ Great backend = great experience. You just don’t see it, you feel it. ⚙️</h4>
