@@ -78,6 +78,25 @@ I’m passionate about designing clean architectures, scalable APIs, and maintai
 
 ---
 
+#### 🧱 Project Descriptions
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [**Auth API**](https://github.com/muhammaddffa/auth-api) | Secure authentication system with JWT & refresh tokens for modern web apps. | `Node.js`, `Express`, `Prisma`, `JWT` |
+| [**Flask AI API**](https://github.com/muhammaddffa/flask-ai-api) | REST API built with Flask serving ML model predictions in real time. | `Python`, `Flask`, `scikit-learn` |
+| [**Express File Service**](https://github.com/muhammaddffa/express-file-service) | Cloud-ready microservice for handling uploads to Cloudinary. | `Node.js`, `Express`, `Multer`, `Cloudinary` |
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20Coffee-0D1117?style=for-the-badge" />
+</p>
+
+
+---
+
 ### 🧠 Contributions & Activity
 
 <p align="center">
