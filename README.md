@@ -65,10 +65,6 @@ I’m passionate about designing clean architectures, scalable APIs, and maintai
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammaddffa&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammaddffa&theme=onestar&no-frame=true&margin-w=15" />
-</p>
-
 ---
 
 ### 🌐 Connect With Me
